@@ -1,0 +1,16 @@
+# ninja log v5
+3	66	7147696399341940	CMakeFiles/Programming_Code.dir/credit/credit1.c.obj	c01c2e0eb20c279e
+2	389	7151866109325942	build.ninja	4e8fb7bfd53e8861
+163	358	7147243978073761	Programming_Codes.exe	d16367733aacac80
+3	85	7138623344573117	CMakeFiles/Programming_Codes.dir/pointer.c.obj	888db1ee25f42854
+3	213	7138622474279544	CMakeFiles/Programming_Codes.dir/binarySearchTree2.c.obj	3a515ece96e0301c
+0	74	7138624841567401	CMakeFiles/Programming_Codes.dir/pointervalue.c.obj	ee107b87cf5bf480
+11	163	7138622473771383	CMakeFiles/Programming_Codes.dir/pointer.cpp.obj	b4f432e1bdc42301
+3	124	7146863985016343	CMakeFiles/Programming_Codes.dir/population/population.c.obj	196dc9ab95ab7786
+2	75	7147236611085226	CMakeFiles/Programming_Codes.dir/mario-less/mario.c.obj	a74ace379fd07f36
+3	162	7147243976125855	CMakeFiles/Programming_Codes.dir/mario-more/mario.c.obj	7449fbddd99392dc
+13	126	7147417224095903	CMakeFiles/Programming_Code.dir/cash/cash.c.obj	78791fa576986287
+77	189	7148425412476155	Programming_Code.exe	d45b009586c092e0
+1	179	7148143937246523	CMakeFiles/Programming_Code.dir/credit/credit.c.obj	fd9a0090636f5ad9
+4	143	7148266950130920	CMakeFiles/Programming_Code.dir/structure.c.obj	15e5b3ca87b7d83
+2	77	7148425411401564	CMakeFiles/Programming_Code.dir/readability/readability.c.obj	5926ee06438535b3
