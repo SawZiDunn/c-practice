@@ -4,28 +4,40 @@
 #include<stdio.h>
 #include<string.h>
 
-struct labour{
-    int a;
-    char myarr[10];
+//structure in C can be written in two ways
+
+struct movie{
+    int released_year;
+    char name[10];
 
 };
 
+typedef struct
+{
+    char name[10];
+    int age;
+
+} person;
+
 int main(){
     
-    struct labour l1;
-    struct labour l2;
-    l1.a=25;
-    strcpy(l1.myarr,"Howareyou?");
+    struct movie movie1;
+    struct movie movie2;
 
-    l2.a=52;
-    strcpy(l2.myarr,"SawZiDunn");
+    movie1.released_year = 1997;
+    strcpy(movie1.name,"The Hound");
 
+    movie2.released_year = 2011;
+    strcpy(movie2.name,"The Pink");
 
-    printf("a is %d\nmyarr is %s\n",l1.a,l1.myarr);
-    printf("a is %d\nmyarr is %s",l2.a,l2.myarr);
+    printf("============");
 
+    person people[2];
+    strcpy(people[0].name, "Jim");
+    people[0].age = 21;
 
-
+    strcpy(people[1].name, "Jack");
+    people[1].age = 25;
 
     return 0;
 }
