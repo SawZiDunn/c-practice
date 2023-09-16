@@ -6,8 +6,10 @@ int finding_factorial(int key);
 
 int main(){
     int key;
+
     printf("Enter the number you want the factorial of :");
     scanf("%d", &key);
+
     int result = finding_factorial(key);
     printf("The factorial of %d is %d.", key, result);
 
