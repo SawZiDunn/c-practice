@@ -1,8 +1,9 @@
 # ninja log v5
 3	66	7147696399341940	CMakeFiles/Programming_Code.dir/credit/credit1.c.obj	c01c2e0eb20c279e
-2	389	7165812505831915	build.ninja	4e8fb7bfd53e8861
+2	389	7167502290869452	build.ninja	4e8fb7bfd53e8861
 163	358	7147243978073761	Programming_Codes.exe	d16367733aacac80
 3	85	7138623344573117	CMakeFiles/Programming_Codes.dir/pointer.c.obj	888db1ee25f42854
+0	157	7167429323089957	CMakeFiles/Programming_Code.dir/pointer/passbyPointer.c.obj	5740230a038fe8ca
 3	213	7138622474279544	CMakeFiles/Programming_Codes.dir/binarySearchTree2.c.obj	3a515ece96e0301c
 0	74	7138624841567401	CMakeFiles/Programming_Codes.dir/pointervalue.c.obj	ee107b87cf5bf480
 11	163	7138622473771383	CMakeFiles/Programming_Codes.dir/pointer.cpp.obj	b4f432e1bdc42301
@@ -11,11 +12,14 @@
 2	75	7147236611085226	CMakeFiles/Programming_Codes.dir/mario-less/mario.c.obj	a74ace379fd07f36
 3	162	7147243976125855	CMakeFiles/Programming_Codes.dir/mario-more/mario.c.obj	7449fbddd99392dc
 13	126	7147417224095903	CMakeFiles/Programming_Code.dir/cash/cash.c.obj	78791fa576986287
-174	451	7165801157413965	Programming_Code.exe	61cec2e7405b514
+217	439	7167450506996475	Programming_Code.exe	c1d4159e4d825bf
 1	179	7148143937246523	CMakeFiles/Programming_Code.dir/credit/credit.c.obj	fd9a0090636f5ad9
 4	143	7148266950130920	CMakeFiles/Programming_Code.dir/structure.c.obj	15e5b3ca87b7d83
 2	77	7148425411401564	CMakeFiles/Programming_Code.dir/readability/readability.c.obj	5926ee06438535b3
 4	188	7165747146478561	CMakeFiles/Programming_Code.dir/algorithms/linear_search.c.obj	58570e187bb1bcc6
-3	89	7165812382491166	CMakeFiles/Programming_Code.dir/algorithms/recursive_pyramid.c.obj	28e8bbef5dfb3927
 1	66	7165812526600217	CMakeFiles/Programming_Code.dir/algorithms/recursive_pyramid.c.obj	28e8bbef5dfb3927
-67	165	7165812527552287	Programming_Code.exe	ae3fad3c0c7ff349
+3	103	7166732470489591	CMakeFiles/Programming_Code.dir/pointer/pointer.c.obj	cae7b32b9c149aff
+4	136	7167411520581757	CMakeFiles/Programming_Code.dir/pointer/array_pointer.c.obj	603cb0a51831ad5d
+1	125	7167431972332779	CMakeFiles/Programming_Code.dir/pointer/passbyReference.c.obj	5d0726d02712ca9d
+0	185	7167434719155725	CMakeFiles/Programming_Code.dir/pointer/filePointer.c.obj	60648ca41ad19ce1
+2	215	7167450504845486	CMakeFiles/Programming_Code.dir/pointer/copy.c.obj	92a57a7715faf570

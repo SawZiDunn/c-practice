@@ -24,7 +24,7 @@ void writeNumsTofile(){
         printf("File cannot be opened.");
         exit(1);
     }else{
-        for(int i=1;i<=100;i++){
+        for(int i = 1; i <= 100; i++){
             fprintf(fptr,"%d%c",i,'\n');
         }
     }

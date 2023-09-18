@@ -3,4 +3,4 @@ project(Programming_Codes)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Programming_Code algorithms/recursive_pyramid.c)
+add_executable(Programming_Code pointer/passbyReference.c)
