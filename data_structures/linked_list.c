@@ -7,7 +7,7 @@
 typedef struct node{
     int data;
     struct node *next;
-} node; // struct node is node
+} node; // struct node is defined as node
 
 void print(struct node *ptr);
 void insertAfter(node *prenode,int data_newnode);

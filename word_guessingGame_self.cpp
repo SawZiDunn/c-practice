@@ -24,7 +24,7 @@ int main(){
     int count = 0;
 
 
-    while (1){
+    while (true){
         int index = rand() % size;
 
         int p1 = rand() % 5;

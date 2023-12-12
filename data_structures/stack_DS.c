@@ -8,13 +8,11 @@ struct stack{
 };
 typedef struct stack st;
 
-
 st *createEmptyStack(){
     st *st1 = (st*) malloc(sizeof(st));
     st1->top = -1;
     return st1;
 }
-
 
 int isEmpty(st *myStack){
     if(myStack->top == -1){
@@ -32,14 +30,12 @@ int isFull(st *myStack){
     }else{
         return 0;
     }
-
 }
 
 void push(st *myStack, int key){
     if(!isFull(myStack)){
         myStack->top++;
         myStack->data[myStack->top] = key;
-
     }
 }
 
@@ -47,7 +43,6 @@ void pop(st *myStack){
     if(!isEmpty(myStack)){
         printf("Data :%d\n", myStack->data[myStack->top]);
         myStack->top--;
-
     }
 }
 
@@ -56,7 +51,6 @@ void printStack(st *myStack){
     while(myStack->top != -1){
         pop(myStack);
     }
-
 }
 
 int main(){
@@ -67,9 +61,6 @@ int main(){
     push(myStack, 7);
     pop(myStack);
 
-
-
     printStack(myStack);
-
     return 0;
 }
