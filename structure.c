@@ -30,7 +30,10 @@ int main(){
     movie2.released_year = 2011;
     strcpy(movie2.name,"The Pink");
 
-    printf("============");
+    printf("%s %d\n", movie1.name, movie1.released_year);
+    printf("%s %d\n", movie2.name, movie2.released_year);
+
+    printf("============\n");
 
     person people[2];
     strcpy(people[0].name, "Jim");

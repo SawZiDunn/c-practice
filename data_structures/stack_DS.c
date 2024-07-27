@@ -6,10 +6,11 @@ struct stack{
     int data[MAX];
     int top;
 };
+
 typedef struct stack st;
 
 st *createEmptyStack(){
-    st *st1 = (st*) malloc(sizeof(st));
+    st *st1 = malloc(sizeof(st));
     st1->top = -1;
     return st1;
 }

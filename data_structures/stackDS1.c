@@ -71,8 +71,6 @@ int main(){
     push(myStack, 7);
     printStack(myStack);
 
-
-
     printStack(myStack);
 
     return 0;
