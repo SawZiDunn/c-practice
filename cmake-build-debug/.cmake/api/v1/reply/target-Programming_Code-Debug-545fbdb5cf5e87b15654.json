@@ -90,7 +90,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "algorithms/bubble_sort.c",
+			"path" : "pointer/pointer.c",
 			"sourceGroupIndex" : 0
 		}
 	],

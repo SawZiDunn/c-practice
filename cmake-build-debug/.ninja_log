@@ -1,5 +1,8 @@
 # ninja log v5
-2	389	7417794799511911	build.ninja	4e8fb7bfd53e8861
+2	389	7551219972606771	build.ninja	4e8fb7bfd53e8861
 163	358	7147243978073761	Programming_Codes.exe	d16367733aacac80
 217	434	7272877696236706	Programming_Code.exe	ff6356db113f27bc
-1	216	7272877694067690	CMakeFiles/Programming_Code.dir/algorithms/bubble_sort.c.obj	2e06c82c934539ea
+1	175	7551222365026233	CMakeFiles/Programming_Code.dir/pointer/pointer.c.obj	90aac64bc49b7d45
+177	406	7551222367257561	Programming_Code.exe	32996eb56e135219
+5	122	7551223036161012	CMakeFiles/Programming_Code.dir/pointer/pointer.c.obj	90aac64bc49b7d45
+122	276	7551223037653548	Programming_Code.exe	32996eb56e135219

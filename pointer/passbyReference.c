@@ -11,10 +11,11 @@ int main(){
     int *p;
     p = &data2; // or int *p = &data2, literally the same
 
-    // reference is the memory address of a variable, it's literally pointer
+    // reference is the memory address of a variable,
+    // a pointer is a variable that stores that reference
 
     printf("data1 : %d\ndata2 : %d\n", data1, data2);
-    swap(&data1,p); //pass by reference, p is literally %data2
+    swap(&data1,p); //pass by reference, p is literally &data2
     printf("data1 : %d\ndata2 : %d\n", data1, data2);
 
     return 0;

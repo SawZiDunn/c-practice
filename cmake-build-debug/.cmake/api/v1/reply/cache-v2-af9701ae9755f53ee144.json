@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/User/OneDrive/Desktop/c_c++_practice/cmake-build-debug"
+			"value" : "c:/Users/User/OneDrive/Desktop/c-practice/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/User/OneDrive/Desktop/c_c++_practice/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/User/OneDrive/Desktop/c-practice/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/User/OneDrive/Desktop/c_c++_practice"
+			"value" : "C:/Users/User/OneDrive/Desktop/c-practice"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/User/OneDrive/Desktop/c_c++_practice/cmake-build-debug"
+			"value" : "C:/Users/User/OneDrive/Desktop/c-practice/cmake-build-debug"
 		},
 		{
 			"name" : "Programming_Codes_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/User/OneDrive/Desktop/c_c++_practice"
+			"value" : "C:/Users/User/OneDrive/Desktop/c-practice"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
